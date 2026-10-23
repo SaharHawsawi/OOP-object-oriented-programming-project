@@ -68,6 +68,6 @@ The system supports two types of bookable items: movies and snacks. It maintains
 # 👩‍💻 Contributors
 * Ansam Mohammed [Linkedin profile](https://www.linkedin.com/in/ansam-alqarni-1a766a328)
 * Maareb Felemban *Linkedin profile will be updated once I have it*
-* Sahar Hawsawi [Linkedin profile](www.linkedin.com/in/sahar-hawsawi-4133aa361)
+* Sahar Hawsawi [linkedin profile](https://www.linkedin.com/in/sahar-hawsawi-4133aa361)
 
 🌟 thank you for visiting this repository!
