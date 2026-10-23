@@ -66,7 +66,7 @@ The system supports two types of bookable items: movies and snacks. It maintains
 * Advanced Search and Filtering: Enable searching and filtering by movie genre, price, availability, and name.
 * Input Validation and Security: Validate customer information and user inputs to improve reliability and protect data.
 # 👩‍💻 Contributors
-* Ansam Mohammed *Linkedin profile will be updated once I have it*
+* Ansam Mohammed [Linkedin profile](https://www.linkedin.com/in/ansam-alqarni-1a766a328)
 * Maareb Felemban *Linkedin profile will be updated once I have it*
 * Sahar Hawsawi [Linkedin profile](www.linkedin.com/in/sahar-hawsawi-4133aa361)
 
