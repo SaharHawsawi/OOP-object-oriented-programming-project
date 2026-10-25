@@ -67,7 +67,7 @@ The system supports two types of bookable items: movies and snacks. It maintains
 * Input Validation and Security: Validate customer information and user inputs to improve reliability and protect data.
 # 👩‍💻 Contributors
 * Ansam Mohammed [Linkedin profile](https://www.linkedin.com/in/ansam-alqarni-1a766a328)
-* Maareb Felemban *Linkedin profile will be updated once I have it*
+* Maareb Felemban [Linkedin profile](http://www.linkedin.com/in/maareb-felemban)
 * Sahar Hawsawi [linkedin profile](https://www.linkedin.com/in/sahar-hawsawi-4133aa361)
 
 🌟 thank you for visiting this repository!
